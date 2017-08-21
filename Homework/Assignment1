@@ -1,1 +1,25 @@
+# Tyerra Smith
+## CPSC 4175
+### Homework 1
+#### August 21, 2017
 
+1) The four percieved components of software crisis are that the software is delivered on time, is within budget, is fault-free, and meets the client's needs.
+
+2) The software development cycle refers to the developing stages that take place before the product is released to the client (i.e. creating, testing, etc.) while the software life cycle refers to the longevity of the product which starts once the software is released.
+
+3) When I first bought a cellphone, I bought a Motorola Razor. At this, the rate at which my internet service was considered fastest was at 2G. After a year or so, I complained to my cellphone service provider and requested a faster internet service so in turn they began provding 3G. This is an example of perfective maintenance because this change improved the performance and the change was requested by the client.
+Up until 1989, the Georgia State tax was 3%. After the tax percentage was raised to 4% in 1989,all tax preparers and stores that had their registers set to automatically compute taxes on goods had to change their programs to reflect the change in state tax. This is an example of adaptive maintenance, which is not requested by the client but is instead imposed on the client as a result from a change in the environment.
+
+4) Hardware consists mostly of physical components, therefore, the aging of hardware refers to the 'wears and tears' of product. Software consists of virtual components, therefore, the aging of software refers to the updates and improvements of the product.
+
+5)These statements say to me that many of the faults are detected prior to implementation because it is cheaper to fix those faults found prior rather that subsequent implementation.
+
+6) There are no separate planning, testing, or documentation phases because these activities should take place throughout entire software life cycle. These are activities that should be continuous instead of only taking place at a single stage in the software development process.
+
+7) Object oriented programming uses the techniques of structured programming in order to allow the program to flow while also adding additional structure to the program.
+
+8) In designing a piece of software, I think it is more important to interact with the client. I think this because the software should be dedigned in such a way that the client's needs are met. Generall, the client will have the user's need in mind as he pitches the requirements, therefore, the client can act as a spokesperson for the user also. After implementation, I think it is more important to interact with the users since in order to get constructive criticism and feedback in order to futher improve the functionality of the product.
+
+9) In order to promote lifelong learning in y profession, I could participate in weekly coding challenges. This activity can help me to learn the more cost and time efficient ways to complete a given coding task. It would also help me to determine which coding language is better for a given task and other things of that nature.
+
+10) "The Cathedral and the Bazaar" is a story written by Eric Steven Raymond in an attempt to express the two viewpoints on software development and software management. Before the development of the Linux operating system, Eric and many others believed that in order to create a successful product, a central project management team of some sort must exist. With the release of Linux, an open source program, this viewpoint changed because its success was gained by 'going against the grain'. Linux being an open source opened up the opportunity for people to collaborate to update and improve the product without having to have centralized meetings. Instead the collaborations took place via Internet. The prior belief is referred to as the "Cathedral" while the latter is referred to as the "Bazaar". I liked the fact the the "recycle and reuse" idea that I've found beneficial in my three years of programming was mentioned and I also enjoyed the contrast between the two sides and the evolution that that contrast conveys.
