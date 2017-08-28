@@ -17,7 +17,7 @@ which set is the better option for a given situation. A specialist would only de
 with one tool or implementation method and may not be able to effieciently solve 
 the given problem being that the known tool or method may not be the best option._  
 4. Techniques for determining requirements and why they may not be effective:  
-_* interviewing: Interviewing may not be the best technique simply because for 
+* _interviewing: Interviewing may not be the best technique simply because for 
 many, interviews ignites a nervous feeling. As a result, the interviewee may not 
 give an accurate response to the question he/she is asked. This could make the 
 processs longer as the interviewer may not be able to get an idea of where the 
