@@ -21,16 +21,16 @@ the given problem being that the known tool or method may not be the best option
 many, interviews ignites a nervous feeling. As a result, the interviewee may not 
 give an accurate response to the question he/she is asked. This could make the 
 processs longer as the interviewer may not be able to get an idea of where the 
-actual problem lies within the system.
-* questionnaire: This technique may also not give an accurate description of 
+actual problem lies within the system._
+* _questionnaire: This technique may also not give an accurate description of 
 where the problem lies because some people are afraid of what others may think of 
 their answers and don't want to be the 'bearer of bad news'. As a result, they may 
-'sugarcoat' the issue at hand instead of revealing the truth. 
-* examination of forms: This technique may not be best if the company did not 
+'sugarcoat' the issue at hand instead of revealing the truth._ 
+* _examination of forms: This technique may not be best if the company did not 
 take the time to place specific details into their user manual or their 
 inventory/housekeeping documents because the forms will no longer shed light on the 
-way the company conducts business nor the current flow of business.
-* direct observation: This technique may not be as valuable because employees 
+way the company conducts business nor the current flow of business._
+* _direct observation: This technique may not be as valuable because employees 
 tend to do things differently and more 'by-the-book' if/when they know that they 
 are under supervision._
 5. Requirements are dynamic rather than static in the sense that _the initial 
