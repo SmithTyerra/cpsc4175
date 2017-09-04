@@ -14,21 +14,28 @@ data (i.e. how many digits and decimal places are accepted), or the operations
 that are to be performed on this numerical data (i.e. 
 multiplication, division, addition, subtraction)._  
 
-3. _A data flow diagram shows the flow of data throughout a given process 
-beginning with the input and ending with the output._  
+3. _In the diagram I submitted, it is shown that in order for student grades to 
+be processed, the instructor must create a gradebook, assign a final grade, 
+grade the student's work, and then produce a grade report._  
 
-4. _A finite state machine is a diagram that shows a sequence in which the output 
-is a function of the inputs._  
+4. _In the diagram that I have submitted, it is shown that in order to complete 
+an online order a customer must search or browse for an item, then view the item 
+an decide whether or not they like it. After that, they must add the item to the 
+shopping cart and proceed to checkout. The customer also has a choice to remove 
+the item if the decide that they do not want to purchase it anymore and can view 
+their shopping cart also._  
 
-5. _An entity-relation diagram is a diagram that show the relationship between 
-entities and shows the attributes of each entity._  
+5. _In the diagram that I have submitted, it is shown that there are four 
+entities: Customer, Order, OrderDetails, and Product and that there is either 
+a many-to-many or one-to-many relationship amongst them. The attributes of each 
+entity is also listed.  
 
-6. _A structured analysis and design technique diagram is a diagram that shows 
-the entities and the actions that can be performed in a given system and the 
-relationship between the two._  
+6. _In the diagram that I have submitted, the inputs (i.e. pin#, cancel, 
+transaction info, etc.) and the outputs (i.e. cash, reciept, etc.) are shown for 
+an ATM._  
 
-7. _A specification and design language diagram is a diagram that shows the 
-processes of a given system and how to go from start to finish within that system._  
+7. _In the diagram that I have submitted, the process of using an ATM is shown 
+form start to finish._  
 
-8. _Z specification is used to model computing systems. The function that I have 
-chosen displays the ATMBooth interface._
+8. _The Z-specification function that I have chosen displays the ATMBooth 
+interface of a given ATM system._
