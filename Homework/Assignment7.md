@@ -8,6 +8,7 @@
 > _code artifact certainly must be tested; and the product as a whole needs testing when it has been fully integrated._ 
 > _After passing the acceptance test, the product is installed and postdelivery maintenance begins. And hand in hand with_ 
 > _maintenance goes repeated checking of modiﬁ ed versions of the product."_  
+
 _I agree with the authors because I believe that in order to create software that is efficient and nearly error-free,_ 
 _testing must be implemented within each stage of the software engineering process._  
 
