@@ -1,5 +1,5 @@
-#Tyerra Smith  
-##October 21, 2017  
+# Tyerra Smith  
+## October 21, 2017  
 
 1. I think that human error and changing requirements are equally important in reference to 
 "software development is considerably different in practice". I think this because the requirements 
