@@ -33,11 +33,11 @@ an interface that the objescts can implement.
 
 6. **INCOMPLETE**  
 
-7. ```c
-#
-# target entry to build program executable from program and mylib 
-# object files  
+7. ```c  
 # 
-program: program.o mylib.o 
-	gcc -o program program.o mylib.o 
+#target entry to build program executable from program and mylib 
+#object files  
+#
+program: program.o mylib.o
+gcc -o program program.o mylib.o
 ```
